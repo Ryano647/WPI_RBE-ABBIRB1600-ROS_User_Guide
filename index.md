@@ -8,11 +8,11 @@ TEXTA
 
 As other MQPs and Industrial projects create more examples feel free to make a pull request on this repo to add your repo as an example.
 
-- A
-asdf 
+- AVRS (Automatic Vehicle Recharging Station) - MQP
+https://github.com/AVRS-MQP/AVRS 
 
-- B
-asdf
+- Seurobot: 
+https://github.com/RBE4815-Team6/Seurobot
 
 - There are no bad ideas until there are.
 This is in a way borrowed from every other time I have had a course teach brainstorming to me. The idea being while in the early stages of brainstorming no ideas should get shot down in order to avoid accidentally shooting down a good idea or to prevent a team member from feeling that their contribution isn't being taken seriously.
